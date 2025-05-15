@@ -18,7 +18,7 @@ Ultimately, the Semantic-Mathematical Dictionary aims to provide an extensible c
 
 ## Full Version
 
-[Read the full white paper](https://github.com/rfigurelli/Semantic-Geometry/blob/main/From_Connection_to_Conflict_White_Paper_v1_0.md)
+[Read the full white paper](https://github.com/rfigurelli/Semantic-Geometry/blob/main/Semantic_Geometry_White_Paper_v1_0.md)
 
 ## License
 
